@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hint_edit">Description</string>
+    <string name="example">example</string>
+    <string name="south">south</string>
+    <string name="north">north</string>
+    <string name="west">west</string>
+    <string name="east">east</string>
+    <string name="optionButton">option</string>
+    <string name="overviewButton">overview</string>
+    <string name="star">starred</string>
+    <string name="cash">cash</string>
+    <string name="health">health</string>
+    <string name="equipment">mess</string>
+    <string name="result">result</string>
+    <string name="reset">Reset</string>
+    <string name="sold">Sell</string>
+    <string name="bought">Buy</string>
+    <string name="pickup">pickup</string>
+    <string name="drop">drop</string>
+    <string name="leave">Leave</string>
+    <string name="use">Use</string>
+    <string name="twon">Town</string>
+    <string name="wild">Wilderness</string>
+    <string name="notenough">Not enough cash</string>
+    <string name="cannotmovethere">Can Not Move to there</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
