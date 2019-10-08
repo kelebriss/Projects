@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="estimated_time">Estimated Time</string>
+    <string name="elapse_time">Elapse Time</string>
+    <string name="distance">Distance to dest</string>
+    <string name="calories">caloiries burned</string>
+    <string name="heartbeat">Heartbeat Rate</string>
+    <string name="speed">Speed</string>
+
+</resources>
